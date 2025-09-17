@@ -31,6 +31,8 @@ Visit the official [DCO Resources page](https://dco.microsoft.com/Resources.aspx
 2. Open it in Microsoft Excel 
 3. Follow the instructions on the "Start" tab to configure your environment and begin your assessment.
 
+The lastest Version can always been found using this [Link](https://aka.ms/AzRAE-MSRP).
+
 ## 🛠️ Requirements
 - Microsoft Excel (Office 365 recommended)
 - Basic understanding of Azure infrastructure and pricing models
