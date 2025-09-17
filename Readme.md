@@ -36,4 +36,4 @@ Visit the official [DCO Resources page](https://dco.microsoft.com/Resources.aspx
 - Basic understanding of Azure infrastructure and pricing models
 
 ## Usage and Restrictions
-This tool is provided by Microsoft as is and subject to the restrisctions outline in the Excel file.
+This tool is provided by Microsoft as is and subject to the restrictions outlined in the Excel file.
