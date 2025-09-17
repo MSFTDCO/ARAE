@@ -1,6 +1,8 @@
 # Azure Rapid Assessment Estimator (ARAE)
 Welcome to the **Azure Rapid Assessment Estimator (ARAE)** – a powerful Excel-based calculator developed by Microsoft to help IT professionals, consultants, and partners quickly assess and estimate the cost of migrating existing workloads to Azure IaaS and PaaS services.
 
+ARAE is part of the [Microsoft Datacenter Optimization](https://dco.microsoft.com/Default.aspx) Initiative (DCO).
+
 ## 🚀 What is ARAE?
 ARAE is designed to streamline the cloud assessment process by:
 
@@ -22,7 +24,7 @@ Microsoft provides several video tutorials to help you get started and make the 
 - PaaS vs. IaaS Cost Modeling
 - Helper Tabs Explained
 
-Visit the official DCO Resources page for access to these videos and additional documentation.
+Visit the official [DCO Resources page](https://dco.microsoft.com/Resources.aspx) for access to these videos and additional documentation.
 
 ## 📁 Getting Started
 1. Download the latest version of the Excel file.
@@ -33,5 +35,5 @@ Visit the official DCO Resources page for access to these videos and additional 
 - Microsoft Excel (Office 365 recommended)
 - Basic understanding of Azure infrastructure and pricing models
 
-## 📄 License
-This tool is provided by Microsoft and subject to its terms of use. Please refer to the license information included in the Excel file.
+## Usage and Restrictions
+This tool is provided by Microsoft as is and subject to the restrisctions outline in the Excel file.
