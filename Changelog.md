@@ -6,9 +6,12 @@ Format follows [Keep a Changelog](https://keepachangelog.com/) and semantic vers
 
 ## [Unreleased]
 - Planned features and improvements
+  - Add new Azure regions (Austria, ..., Switzerland, ...).
+  - Adjust to new AVS SKUs
+  - Create an enhanced Azure Local estimator
+  - Reduce MSRP pricing overhead to selectable meters
 - Open requests from feedback channel
-- Add new Azure regions (Austria, ..., Switzerland, ...).
-- Adjust to new AVS SKUs
+  - ...
 
 ---
 
