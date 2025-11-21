@@ -1,6 +1,6 @@
 # 📒 Changelog – ### Azure Rapid Assessment Estimator
 All notable changes to this project will be documented here.  
-Format follows [Keep a Changelog](https://keepachangelog.com/) and semantic versioning.
+Format follows [Keep a Changelog](https://keepachangelog.com/).
 
 ---
 
