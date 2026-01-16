@@ -6,7 +6,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/).
 
 ## [Unreleased]
 - Planned features and improvements
-  - Add new Azure regions (Austria, ..., Switzerland, ...).
+  - Add new Azure regions (Austria, Belgium, Switzerland, ...).
   - Adjust to new AVS SKUs
   - Create an enhanced Azure Local estimator
   - Reduce MSRP pricing overhead to selectable meters
@@ -14,6 +14,19 @@ Format follows [Keep a Changelog](https://keepachangelog.com/).
   - ...
 
 ---
+
+## [8.7.7] – 2026-01-09
+### ✨ New Features
+- Added a feedback form button to the VM Input tab 
+
+### 🛠️ Changes
+- Updated monthly FXRates
+- Updated Azure Pricing Data with January snapshot
+- Updated CSP Pricelist with latest software SKUs
+
+### 🐞 Bug Fixes
+-  corrected Managed Service Markup drop down list definition
+
 
 ## [8.7.6] – 2025-11-20
 ### ✨ New Features
