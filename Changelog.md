@@ -1,4 +1,4 @@
-# 📒 Changelog – ### Azure Rapid Assessment Estimator
+# 📒 Changelog – Azure Rapid Assessment Estimator
 All notable changes to this project will be documented here.  
 Format follows [Keep a Changelog](https://keepachangelog.com/).
 
@@ -14,6 +14,15 @@ Format follows [Keep a Changelog](https://keepachangelog.com/).
   - ...
 
 ---
+## [8.7.8] – 2026-02-26
+
+### 🛠️ Changes
+- Updated monthly FXRates
+- Updated Azure Pricing Data with February snapshot
+- Updated CSP Pricelist with latest software SKUs
+- Adjusted the PaaS Spec Sheet to reflect changed SQL Identifiers in the CSP Pricelist
+- Added a warning when selected currency does not match the CPS Pricelist currency
+
 
 ## [8.7.7] – 2026-01-09
 ### ✨ New Features
@@ -51,13 +60,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/).
 - changed date handling for Price List Date and FXrate Date to be independent from regional localization
 
 
----
-
 ## [8.7.5] – 2025-09-17
-### ✨ New Features
-- 
-- 
 
 ### 🛠️ Changes
 - Updated with September pricing
-- 
