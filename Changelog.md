@@ -14,6 +14,14 @@ Format follows [Keep a Changelog](https://keepachangelog.com/).
   - ...
 
 ---
+## [8.7.9] – 2026-04-21
+
+### 🛠️ Changes
+- Updated monthly FXRates
+- Updated Azure Pricing Data with April snapshot
+- Updated CSP Pricelist with latest software SKUs
+
+
 ## [8.7.8] – 2026-02-26
 
 ### 🛠️ Changes
